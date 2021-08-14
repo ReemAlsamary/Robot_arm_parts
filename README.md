@@ -15,8 +15,8 @@
 
 ## 3. Connect the arm parts together
 - Begin by placing the arm parts in the proper arrangement, beginning with the base and finishing with the gripper, as shown below:
-1- Base
-2- Waist
+1. Base
+2. Waist
 3- Arm 1
 4- Arm 2
 5- Gripper
