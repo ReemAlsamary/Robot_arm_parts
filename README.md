@@ -17,9 +17,9 @@
 - Begin by placing the arm parts in the proper arrangement, beginning with the base and finishing with the gripper, as shown below:
 1. Base
 2. Waist
-3- Arm 1
-4- Arm 2
-5- Gripper
+3. Arm 1
+4. Arm 2
+5. Gripper
 ![R_a_2](https://user-images.githubusercontent.com/86277104/129431694-1fab3686-d860-4781-8703-28080b7cd5af.png)
 
 ![R_a_3](https://user-images.githubusercontent.com/86277104/129431418-2c4a29b4-efb9-48ee-bd35-befbb2cc329e.png)
